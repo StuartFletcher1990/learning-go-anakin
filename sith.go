@@ -3,5 +3,5 @@ package sith
 import "fmt"
 
 func SithLord()  {
-	fmt.Println("Lightsaber go BRRRRRRRRRRR!")
+	fmt.Println("Anakin: Lightsaber go BRRRRRRRRRRR!")
 }
